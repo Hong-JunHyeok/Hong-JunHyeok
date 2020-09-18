@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 -email : edb1631@naver.com
 >blog : 
   >>T-story : https://hong-jh.tistory.com/  
-  >>github :https://github.com/Hong-JunHyeok  
+  >>github :https://github.com/Hong-JunHyeok 
   >>Naver Blog :https://blog.naver.com/edb1631 
 
