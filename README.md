@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🔭 I’m currently working on 
+- Daegu Software Highschool
+
+### 🌱 I’m currently learning ...
+- Create a great web
+
+### 📫 How to reach me: ...
+-email : edb1631@naver.com
+>blog : 
+  >>T-story : https://hong-jh.tistory.com/  
+  >>github :https://github.com/Hong-JunHyeok  
+  >>Naver Blog :https://blog.naver.com/edb1631 
