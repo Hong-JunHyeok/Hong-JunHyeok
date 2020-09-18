@@ -1,4 +1,4 @@
-### Hi there 👋
+### I want to be a web developer with a solid foundation.★
 
 <!--
 **Hong-JunHyeok/Hong-JunHyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
