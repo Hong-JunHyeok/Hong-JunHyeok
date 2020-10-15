@@ -1,7 +1,5 @@
 ### I want to be a web developer with a solid foundation.★
 
-[![Hong Jun Hyeok's github stats](https://github-readme-stats.vercel.app/api?username=Hong-JunHyeok)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **Hong-JunHyeok/Hong-JunHyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
