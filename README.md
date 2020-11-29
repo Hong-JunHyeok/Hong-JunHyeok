@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### 📫 How to reach me: ...
 -email : edb1631@naver.com
 >blog : 
-  >>T-story : https://hong-jh.tistory.com/  
-  >>github :https://github.com/Hong-JunHyeok 
-  >>Naver Blog :https://blog.naver.com/edb1631 
+  >>T-story : https://hong-jh.tistory.com/  <br />
+  >>github :https://github.com/Hong-JunHyeok <br />
+  >>Naver Blog :https://blog.naver.com/edb1631 <br />
 
