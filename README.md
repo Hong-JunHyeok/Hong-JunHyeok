@@ -1,12 +1,11 @@
 ![Header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=FRONT_DEV&fontAlign=70&rotate=13&fontAlignY=25)
 
-<h1>
 ```javascript
 function sayHello() {
     console.log("Hello!")
 }
 ```
-</h1>
+
 
 # I love React & Typescript ❤️
 
