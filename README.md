@@ -2,6 +2,11 @@
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&link=https://hong-jh.tistory.com/)](https://hong-jh.tistory.com/)
+
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/programmingHong/)](https://www.facebook.com/programmingHong/)
+	
+ [![Portfolio Badge](http://img.shields.io/badge/portfolio-red?style=flat-square&link=https://hong-junhyeok.github.io/portfolio/)](https://hong-junhyeok.github.io/portfolio/)
 
 # I love React & Typescript ❤️
 
