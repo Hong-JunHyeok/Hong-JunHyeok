@@ -29,6 +29,7 @@ const sayHello = () : void => {
 ![image](https://img.shields.io/badge/-NestJs-black)
 ![image](https://img.shields.io/badge/-Vue-green)
 ![image](https://img.shields.io/badge/-React%20Native-blue)
+![image](https://img.shields.io/badge/-MongoDB-green)
 
 
 ![Header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=BACK_DEV&fontAlign=70&rotate=13&fontAlignY=75&fontAlign=30&animation=fadeIn&reversal=true&section=footer)
