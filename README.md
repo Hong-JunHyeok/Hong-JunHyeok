@@ -10,9 +10,6 @@ const sayHello = () : void => {
 
 # I love React & Typescript ❤️
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&link=https://hong-jh.tistory.com/)](https://hong-jh.tistory.com/)
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/programmingHong/)](https://www.facebook.com/programmingHong/)
-[![Portfolio Badge](http://img.shields.io/badge/portfolio-red?style=flat-square&link=https://hong-junhyeok.github.io/portfolio/)](https://hong-junhyeok.github.io/portfolio/)
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Hong-JunHyeok" target="_blank">
