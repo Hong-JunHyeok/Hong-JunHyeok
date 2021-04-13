@@ -1,14 +1,12 @@
 ![Header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=FRONT_DEV&fontAlign=70&rotate=13&fontAlignY=25)
 
 
+# I love React & Typescript ❤️
 ```typescript
 const sayHello = () : void => {
     console.log('Hello!')
 }
 ```
-
-
-# I love React & Typescript ❤️
 
 ## Connect with me  
 <div align="center">
