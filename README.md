@@ -7,7 +7,7 @@ const sayHello = () : void => {
     console.log('Hello!')
 }
 ```
-
+![image](https://camo.githubusercontent.com/898cef29cde50980bec59aba526dd79ee9bef65f7a5ad6389e85f34c2490e095/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d736f667426636f6c6f723d74696d654772616469656e74266865696768743d3130)
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Hong-JunHyeok" target="_blank">
