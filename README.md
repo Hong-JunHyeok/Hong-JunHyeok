@@ -1,16 +1,9 @@
-![Header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=FRONT_DEV&fontAlign=70&rotate=13&fontAlignY=25)
-
-
 # I love React & Typescript ❤️
 ```typescript
 const sayHello = () : void => {
     console.log('Hello!')
 }
 ```
-
-![Hong-JunHyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hong-JunHyeok&show_icons=false&count_private=true&theme=dark)
-
-![image](https://camo.githubusercontent.com/898cef29cde50980bec59aba526dd79ee9bef65f7a5ad6389e85f34c2490e095/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d736f667426636f6c6f723d74696d654772616469656e74266865696768743d3130)
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Hong-JunHyeok" target="_blank">
@@ -62,6 +55,3 @@ const sayHello = () : void => {
 
 
 </table>  
-
-
-![Header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=BACK_DEV&fontAlign=70&rotate=13&fontAlignY=75&fontAlign=30&animation=fadeIn&reversal=true&section=footer)
