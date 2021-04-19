@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/48292190/115169639-914d5f80-a0f9-11eb-8d73-113ff9c49900.png)
+
 # I love React & Typescript ❤️
 ```typescript
 const sayHello = () : void => {
