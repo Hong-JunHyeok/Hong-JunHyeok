@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/48292190/115182591-31fd4880-a115-11eb-88b5-f06b053dc010.png)
 ![image](https://user-images.githubusercontent.com/48292190/115169639-914d5f80-a0f9-11eb-8d73-113ff9c49900.png)
 -->
-# I love React & Typescript ❤️
+
 ```typescript
 const sayHello = () : void => {
     console.log('Hello!')
