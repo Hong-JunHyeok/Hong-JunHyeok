@@ -38,6 +38,7 @@ const sayHello = () : void => {
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="JQuery" height="50" />
+<img style="margin: 10px color : #FF9955;" src="https://simpleicons.org/icons/mobx.svg" alt="MobX" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
