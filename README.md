@@ -72,8 +72,6 @@ const sayHello = () : void => {
 </table>  
     
     
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&section=footer&height=200&color=gradient)
-    
     
     
     
