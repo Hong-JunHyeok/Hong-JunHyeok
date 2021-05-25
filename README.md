@@ -1,8 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&text=Development%20is%20an%20adventure&height=250&animation=fadeIn&fontSize=50)
+
 <!--
 ![image](https://user-images.githubusercontent.com/48292190/115182826-9ae4c080-a115-11eb-86c6-cf338bbae952.png)
 ![image](https://user-images.githubusercontent.com/48292190/115319421-c372c600-a1ba-11eb-8764-ac46a4bed24f.png)
 -->
-![image](https://user-images.githubusercontent.com/48292190/115319061-f4063000-a1b9-11eb-8df8-de2b15a2cf5e.png)
+<!-- ![image](https://user-images.githubusercontent.com/48292190/115319061-f4063000-a1b9-11eb-8df8-de2b15a2cf5e.png) -->
 <!--
 ![image](https://user-images.githubusercontent.com/48292190/115182591-31fd4880-a115-11eb-88b5-f06b053dc010.png)
 ![image](https://user-images.githubusercontent.com/48292190/115169639-914d5f80-a0f9-11eb-8d73-113ff9c49900.png)
@@ -68,3 +70,10 @@ const sayHello = () : void => {
 
 
 </table>  
+    
+    
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&section=footer&height=200&color=gradient)
+    
+    
+    
+    
