@@ -50,6 +50,7 @@ const sayHello = () : void => {
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="JQuery" height="50" />
 <img style="margin: 10px color : #FF9955;" src="https://simpleicons.org/icons/mobx.svg" alt="MobX" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="50" />        
+    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/414px-Nextjs-logo.svg.png" alt="Gatsby" height="50" />        
 </div>
 
 </td><td valign="top" width="33%">
