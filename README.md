@@ -1,3 +1,8 @@
+<div align="center">
+  <h1>Developers with a solid foundation</h1>
+  <img src="http://24.media.tumblr.com/a8d91d9d6f197e126351464305f75dd7/tumblr_msitq5qMwW1sg2d49o1_1280.gif" width="200">
+</div>
+
 
 ## Connect with me  
 <div align="center">
