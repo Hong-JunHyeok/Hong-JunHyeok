@@ -6,13 +6,13 @@
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Hong-JunHyeok" target="_blank">
-<img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="80" />
+<img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="60" />
 </a>
 <a href="https://www.instagram.com/ramen__killer" target="_blank">
-<img src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" width="80" />
+<img src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" width="60" />
 </a>
 <a href="https://www.facebook.com/programmingHong" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/480px-Facebook_logo_%28square%29.png" width="80" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/480px-Facebook_logo_%28square%29.png" width="60" />
 </a>  
 </div>
   
