@@ -1,2 +1,1 @@
-![carbon (1)](https://user-images.githubusercontent.com/48292190/150116767-3a7a06fd-e98a-4605-8fe6-d589988cb847.png)
-
+![gradient (4)](https://user-images.githubusercontent.com/48292190/151844747-a4f619ae-5c2e-4c3f-84cb-f142598b1ed6.png)
