@@ -1,6 +1,3 @@
-## 일상에 영향력 있는 소프트웨어를 개발하고 싶은 홍준혁입니다.
-
-아래 연락처로 연락해주시면 이른 시일 내에 연락드리겠습니다. 감사합니다.
 
 <div align=center>
   <a href="https://hong-jh.tistory.com/">
